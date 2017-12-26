@@ -1,0 +1,2 @@
+# Ballot
+Voting with delegation
